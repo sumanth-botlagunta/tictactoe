@@ -1,5 +1,5 @@
 # Tic Tac Toe
-## A reactjs project with basic conceps of react
+## A reactjs project with basic concepts of react
 
 This project was create with help of [React tutorial](https://reactjs.org/tutorial/tutorial.html).
 
